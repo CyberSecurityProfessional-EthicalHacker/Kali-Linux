@@ -5,9 +5,8 @@ Run Linux On Android Without Rooting your device....
 The script was originally developed by <a href="https://github.com/EXALAB">EXALAB</a> for <a href="https://github.com/EXALAB/AnLinux-App">AnLinux</a> project.</br>
 
 This version of script is slightly modified.</br>
-Differences from original:
+- Only for Termux 
 - Mounting internal storage (/sdcard) to root (/) is enabled by default
-- Improved output
 - Some amendment in codes 
 
 ### Steps to use .....
