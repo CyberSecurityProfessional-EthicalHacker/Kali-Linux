@@ -11,20 +11,20 @@ This version of script is slightly modified.</br>
 
 ### Steps to use .....
 
--In Termux type pkg install git 
+- In Termux type pkg install git 
 
--pkg install wget proot -y
+- pkg install wget proot -y
 
--git clone https://github.com/professor-madmaxxx/Kali-Linux.git
+- git clone https://github.com/professor-madmaxxx/Kali-Linux.git
 
--cd Kali-Linux
+- cd Kali-Linux
 
--bash installkali.sh
+- bash installkali.sh
 
 ## Let the Script run ...
 
 Once you see Kali Linux was sucessfully installed ..
 
--./start-kali.sh
+- ./start-kali.sh
 
 ## root@localhost:~# whoami
