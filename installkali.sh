@@ -85,5 +85,5 @@ chmod +x $bin
 echo -e "\e[32m[*] \e[34mRemoving RootFS image..."
 rm -rf $tarball
 echo
-echo -e "\e[32mKali Linux was successfully installed!\e[39m"
+echo -e "\e[32mKali Linux was successfully installed && can gain root access!\e[39m"
 echo -e "\e[32mYou can now launch it by executing ./${bin} command.\e[39m"
